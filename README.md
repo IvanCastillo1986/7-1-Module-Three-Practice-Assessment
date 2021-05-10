@@ -117,3 +117,12 @@ Your app should also have a **clean** console. We don't want to see you Warnings
 *Main goal: I'd like to have the static version of each page done and possibly some of the API calls before implementing routing  (since I haven't yet completed the routing lab / lesson)
 
 *Stretch goal: I'd like to have all of the API calls finished / read through the rest of the routing lesson so that I know what I need to finish the lab)
+
+*What did I accomplish today?
+Today I barely accomplished much towards my goals on the practice module assessment. I wrote out a small heirarchy, and thought about the plan to some of my components. I will continue to work on it now (as soon as class is done)
+
+*Did I meet the goals I set for myself this morning? If yes, what led to my success? If not, what do I need to work on to accomplish those goals? 
+I barely met any of my goals. The reason is because I could barely concentrate. I lacked sleep because I was up late last night going through the routing lesson, because I was finishing old labs and projects this weekend and didn't have time. In the retrospect, I should've slept instead, since I could've made up for it today after a good night's sleep.
+
+*Based on my work today, something I need more practice with is (be as specific as possible!):
+Something to work on is learning to leave the stubborn need to work at night, in lieu of some good sleep. 
