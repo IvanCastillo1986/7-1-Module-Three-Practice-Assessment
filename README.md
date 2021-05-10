@@ -113,3 +113,7 @@ Define unique colors (of your choosing) for each page's background.
 Remember to install your packages correctly so that we will be able to run / compile your app by running npm install, npm start.
 
 Your app should also have a **clean** console. We don't want to see you Warnings, Errors, or Logs.
+
+*Main goal: I'd like to have the static version of each page done and possibly some of the API calls before implementing routing  (since I haven't yet completed the routing lab / lesson)
+
+*Stretch goal: I'd like to have all of the API calls finished / read through the rest of the routing lesson so that I know what I need to finish the lab)
