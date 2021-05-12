@@ -1,12 +1,19 @@
 import React, { Component } from 'react'
+import './NavBar.css'
+import { Route, Link} from'react-router-dom'
+import Pokemon from './Pokemon'
+import Locations from './Locations'
+import Berries from './Berries'
 
 export default class NavBar extends Component {
 
     render() {
         return (
-            <div>
-                
-            </div>
+            <nav className='NavBar'>
+                <Link to='/pokemon' >Pokemon</Link>
+                <Link to='/locations' >Locations</Link>
+                <Link to='/berries' >Berries</Link>
+            </nav>
         )
     }
 }
